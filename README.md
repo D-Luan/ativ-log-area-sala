@@ -5,3 +5,7 @@ Para calcular a área, basta multiplicar largura * comprimento.
 FORKING TEST.
 
 Meu primeiro fork.
+
+TEstando merge.
+
+MERGE BRANCH.
